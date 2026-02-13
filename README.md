@@ -2,11 +2,9 @@
 
 Selenium automation Simple Script built to practice login flows, dynamic scrolling, modal handling, and element interaction on instagram.
 
-This script performs automated login, profile navigation, and follower list interaction for learning purposes on instagram.
+This script performs automated login, profile navigation, and follower list interaction.
 
-This script navigates to a target account, opens its follower list, and interacts with follower elements for automation practice.
-
-⚠️ This code is for educational and learning purposes only.
+This script login and navigates to a target account, opens its follower list, and follow all user from that list.
 
 ---
 
