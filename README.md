@@ -1,6 +1,6 @@
 # Selenium Social Media Automation
 
-Selenium automation Simple Script built to practice login flows, dynamic scrolling, modal handling, and element interaction.
+Selenium automation Simple Script built to practice login flows, dynamic scrolling, modal handling, and element interaction on instagram.
 
 This script performs automated login, profile navigation, and follower list interaction for learning purposes on instagram.
 
